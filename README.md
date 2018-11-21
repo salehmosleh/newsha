@@ -1,2 +1,2 @@
 # newsha
-Newsha is a Persian text-to-speech package for javascript
+Newsha is a Persian speech-to-text package for javascript.
